@@ -16,7 +16,7 @@ PDFChatBot is an AI tool that allows users to upload PDF documents and engage in
 4. Run the Streamlit app by executing the following command in your terminal: streamlit run PDFChatBot.py
 
 # Credits
-PDFChatBot is developed by [Your Name] and is powered by advanced AI technologies.
+PDFChatBot is developed by Tanisha Vyas and is powered by advanced AI technologies.
 
 
 
